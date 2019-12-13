@@ -27,4 +27,4 @@ eureka:
  client:
   serviceUrl:
     defaultZone: http://eureka-test.com:7001/eureka/
-
+#save as utf8
